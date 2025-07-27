@@ -1,5 +1,5 @@
 ## Hello world 🎀
-<h1 align="center">Hi 👋, I'm Eyshila Ivanha de Brito</h1>
+<h1 align="center">Hi, I'm Eyshila</h1>
 
 <p align="center">
 🎓 High school student | 💻 Self-learning IT | 🚀 Future Tech Pro
@@ -32,8 +32,8 @@
 
 ### 📫 Contact Me
 
-- ✉️ eyshilaivanha@gmail.com *(ou outro email que quiser divulgar)*
-- 🌐 [LinkedIn](https://www.linkedin.com/) *(coloque aqui se tiver)*
+- ✉️ eyshilaivanha@gmail.com 
+- 🌐 [LinkedIn](https://www.linkedin.com/in/eyshila-ivanha-de-brito-767994337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) *(coloque aqui se tiver)*
 
 ---
 
