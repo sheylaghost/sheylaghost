@@ -37,7 +37,6 @@
 
 ---
 
-### 🔥 Fun Fact
 
 I believe that passion, faith, and perseverance can take me anywhere. 🌍💫
 
