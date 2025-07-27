@@ -33,7 +33,7 @@
 ### 📫 Contact Me
 
 - ✉️ eyshilaivanha@gmail.com 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/eyshila-ivanha-de-brito-767994337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) *(coloque aqui se tiver)*
+- 🌐 [LinkedIn](https://www.linkedin.com/in/eyshila-ivanha-de-brito-767994337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
 ---
 
