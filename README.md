@@ -1,9 +1,45 @@
 ## Hello world 🎀
-👋 Hi! I'm Eyshila Ivanha de Brito.  
-🎓 I'm a high school student currently studying **Information Technology** on my own.  
-💻 I'm learning about web development, programming, and version control using Git and GitHub.  
-📚 I'm passionate about tech and always looking to improve through personal projects and online courses.  
-🚀 My goal is to pursue a degree in IT and build a professional career in the tech industry.
+<h1 align="center">Hi 👋, I'm Eyshila Ivanha de Brito</h1>
+
+<p align="center">
+🎓 High school student | 💻 Self-learning IT | 🚀 Future Tech Pro
+</p>
+
+---
+
+### 🌟 About Me
+
+- 🎓 I’m currently a high school student  
+- 💻 I’m learning **Information Technology** on my own  
+- 🛠️ I’m focusing on **Web Development** and **Programming Basics**  
+- 🎯 My goal is to enter college in IT and build a career in tech  
+- 📚 I enjoy working on personal projects and taking online courses  
+
+---
+
+### 🧠 Currently Learning
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" />
+</div>
+
+---
+
+### 📫 Contact Me
+
+- ✉️ eyshilaivanha@gmail.com *(ou outro email que quiser divulgar)*
+- 🌐 [LinkedIn](https://www.linkedin.com/) *(coloque aqui se tiver)*
+
+---
+
+### 🔥 Fun Fact
+
+I believe that passion, faith, and perseverance can take me anywhere. 🌍💫
 
 
 ![9d806e3a8d33e5cb36d6fcb203a7b131](https://github.com/user-attachments/assets/5b0fd311-c1b4-4b6f-8353-21006c6dd5a8)
