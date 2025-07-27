@@ -1,4 +1,9 @@
 ## Hello world 🎀
+👋 Hi! I'm Eyshila Ivanha de Brito.  
+🎓 I'm a high school student currently studying **Information Technology** on my own.  
+💻 I'm learning about web development, programming, and version control using Git and GitHub.  
+📚 I'm passionate about tech and always looking to improve through personal projects and online courses.  
+🚀 My goal is to pursue a degree in IT and build a professional career in the tech industry.
 
 
 ![9d806e3a8d33e5cb36d6fcb203a7b131](https://github.com/user-attachments/assets/5b0fd311-c1b4-4b6f-8353-21006c6dd5a8)
