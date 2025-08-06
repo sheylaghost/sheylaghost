@@ -43,7 +43,7 @@ I believe that passion, faith, and perseverance can take me anywhere. 🌍💫
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/5b0fd311-c1b4-4b6f-8353-21006c6dd5a8" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/72f864e2-8f47-4827-a7ac-043b4bc7beb8" width="100%"/>
 </div>
 <!--
 **sheylaghost/sheylaghost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
