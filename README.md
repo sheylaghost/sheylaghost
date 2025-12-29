@@ -7,7 +7,7 @@
 
 ---
 
-### 🌟 About Me
+###  About Me
 
 - 🎓 I’m currently a high school student  
 - 💻 I’m learning **Information Technology** on my own  
@@ -27,9 +27,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/>
 </div>
 
-### 📫 Contact Me
+###  Contact Me
 
 - ✉️ eyshilaivanha@gmail.com 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/eyshila-ivanha-de-brito-767994337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
@@ -37,7 +38,7 @@
 ---
 
 
-I believe that passion, faith, and perseverance can take me anywhere. 🌍💫
+I believe that passion, faith, and perseverance can take me anywhere. 
 
 
 
