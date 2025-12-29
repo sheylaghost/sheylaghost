@@ -2,14 +2,13 @@
 <h1 align="center">Hi, I'm Eyshila</h1>
 
 <p align="center">
-🎓 High school student | 💻 Self-learning IT | 🚀 Future Tech Pro
+🎓 Im am student | 💻 Self-learning IT | 🚀 Future Tech Pro
 </p>
 
 ---
 
 ###  About Me
 
-- 🎓 I’m currently a high school student  
 - 💻 I’m learning **Information Technology** on my own  
 - 🛠️ I’m focusing on **Web Development** and **Programming Basics**  
 - 🎯 My goal is to enter college in IT and build a career in tech  
