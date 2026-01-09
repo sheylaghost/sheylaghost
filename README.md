@@ -2,17 +2,17 @@
 <h1 align="center">Hi, I'm Eyshila</h1>
 
 <p align="center">
-🎓 Im am student | 💻 Self-learning IT | 🚀 Future Tech Pro
+ Im am student |  Self-learning IT |  Future Tech Pro
 </p>
 
 ---
 
 ###  About Me
 
-- 💻 I’m learning **Information Technology** on my own  
-- 🛠️ I’m focusing on **Web Development** and **Programming Basics**  
-- 🎯 My goal is to enter college in IT and build a career in tech  
-- 📚 I enjoy working on personal projects and taking online courses  
+-  I’m learning **Information Technology** on my own  
+-  I’m focusing on **Web Development** and **Programming Basics**  
+-  My goal is to enter college in IT and build a career in tech  
+-  I enjoy working on personal projects and taking online courses  
 
 ---
 
@@ -27,6 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" width="50" /> 
 </div>
 
 ###  Contact Me
