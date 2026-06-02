@@ -10,12 +10,12 @@
 
 ### About Me
 
-- 🎓 Currently studying **Analysis and Systems Development** at **UNINTER**
-- 💻 Passionate about **Programming**, **Back-End Development**, and **Technology**
-- 🌱 Continuously learning **Java**, **Python**, **Web Development**, and **Software Engineering**
-- 🔍 Interested in building practical projects and improving my problem-solving skills
-- 🚀 Working towards a career in the technology field
-- 📚 Always exploring new tools, frameworks, and development practices
+-  Currently studying **Analysis and Systems Development** at **UNINTER**
+-  Passionate about **Programming**, **Back-End Development**, and **Technology**
+-  Continuously learning **Java**, **Python**, **Web Development**, and **Software Engineering**
+-  Interested in building practical projects and improving my problem-solving skills
+-  Working towards a career in the technology field
+-  Always exploring new tools, frameworks, and development practices
 
 ---
 
