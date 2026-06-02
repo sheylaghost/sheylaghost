@@ -1,18 +1,21 @@
-## Hello world 🎀
+## Hello World 🎀
+
 <h1 align="center">Hi, I'm Eyshila</h1>
 
 <p align="center">
- Im am student |  Self-learning IT |  Future Tech Pro
+🎓 Analysis and Systems Development Student | 💻 Back-End Enthusiast | 🚀 Future Software Developer
 </p>
 
 ---
 
-###  About Me
+### About Me
 
--  I’m learning **Information Technology** on my own  
--  I’m focusing on **Web Development** and **Programming Basics**  
--  My goal is to enter college in IT and build a career in tech  
--  I enjoy working on personal projects and taking online courses  
+- 🎓 Currently studying **Analysis and Systems Development** at **UNINTER**
+- 💻 Passionate about **Programming**, **Back-End Development**, and **Technology**
+- 🌱 Continuously learning **Java**, **Python**, **Web Development**, and **Software Engineering**
+- 🔍 Interested in building practical projects and improving my problem-solving skills
+- 🚀 Working towards a career in the technology field
+- 📚 Always exploring new tools, frameworks, and development practices
 
 ---
 
